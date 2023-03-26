@@ -5,7 +5,7 @@ This is a simple script to download all the songs in a Spotify playlist. It uses
 * Python 3
 * Spotify API Client ID and Client Secret 
     - You can get these by creating an app on the [Spotify Developer Dashboard](https://developer.spotify.com/dashboard/applications)
-    - Make sure to add `http://localhost:8888` to the Redirect URIs
+    - Make sure to add `http://localhost:8888/callback` to the Redirect URIs
     
 ## Installation
 * Clone the repository
